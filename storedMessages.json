@@ -1,0 +1,48 @@
+[
+  {
+    "messageID": "4196743119",
+    "messageHash": "41:1:BYEBYE",
+    "recipient": "+27123456789",
+    "message": "bye"
+  },
+  {
+    "messageID": "5494955983",
+    "messageHash": "54:1:GOODSIR",
+    "recipient": "+27123456678",
+    "recipientUsername": "goda_",
+    "timeSent": "Not sent yet",
+    "message": "good day sir"
+  },
+  {
+    "messageID": "4819507240",
+    "messageHash": "48:1:WHENSCHOOLS",
+    "recipient": "+27123344567",
+    "recipientUsername": "zul_",
+    "timeSent": "Not sent yet",
+    "message": "when are we closing schools?"
+  },
+  {
+    "messageID": "5636924350",
+    "messageHash": "56:1:BYEBYE",
+    "recipient": "+27123456789",
+    "recipientUsername": "Jwa_",
+    "timeSent": "Not sent yet",
+    "message": "bye"
+  },
+  {
+    "messageID": "4128770572",
+    "messageHash": "41:1:BYESIR",
+    "recipient": "+27123456788",
+    "recipientUsername": "zul_",
+    "timeSent": "Not sent yet",
+    "message": "bye sir "
+  },
+  {
+    "messageID": "3755692972",
+    "messageHash": "37:1:BYEESIR",
+    "recipient": "+27123456789",
+    "recipientUsername": "zul_",
+    "timeSent": "Not sent yet",
+    "message": "byee sir "
+  }
+]
